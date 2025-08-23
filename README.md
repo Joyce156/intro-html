@@ -6,7 +6,7 @@
   -  `<head></head>` -this is where we add the meta data about the application we are building.it consists of information that we do not want includede as part of the actual page content
   -   `<body></body>` -this contains all the information that you want to show to the web users
    
-   ...
+   ```
       html
 <!DOCTYPE html>
 <html lang="en">
@@ -20,4 +20,4 @@
     
   </body>
 </html>
-...
+```
